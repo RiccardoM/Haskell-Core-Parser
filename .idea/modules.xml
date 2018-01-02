@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoreParser.iml" filepath="$PROJECT_DIR$/CoreParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The-Great-Parser (root).iml" filepath="$PROJECT_DIR$/The-Great-Parser (root).iml" />
+    </modules>
+  </component>
+</project>
